@@ -9,7 +9,7 @@ _Congratulations friend, you've completed this course!_
 
 <img src=https://octodex.github.com/images/Fintechtocat.png alt=celebrate width=300 align=right>
 
-Here's a *recap* of all the tasks you've accomplished in your repository:
+Here's a recap of all the tasks you've accomplished in your repository:
 
 - We created an Actions workflow to lint our Markdown files.
 - You caught an issue in a file and fixed the issue before it could make it to `main`.
